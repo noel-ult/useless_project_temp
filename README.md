@@ -22,3 +22,7 @@ Visit http://localhost:8000. Fill in the submission template using actual team i
 
 - [Source, command, and configuration reference](docs/REFERENCE.md)
 - [Contributing](CONTRIBUTING.md)
+
+<!-- developer-handbook-20261028 -->
+[Source reference](docs/REFERENCE.md) · [Verification and operations](docs/OPERATIONS.md)
+<!-- /developer-handbook-20261028 -->
